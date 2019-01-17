@@ -22,6 +22,6 @@ function projectClick(e) { 
     e.preventDefault();
     // In an event handler, $(this) refers to      
     // the object that triggered the event      
-    $(this).css("background-color", "#7fff00");
+    $(this).css("background-color", "#E80C7A");
 
 }
